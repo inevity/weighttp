@@ -1,4 +1,4 @@
-- timing statistics
+- timing statistics response time  or latecny per req  ,and latency distribution
 - generally better statistics
 - ssl support
 - better error reporting
