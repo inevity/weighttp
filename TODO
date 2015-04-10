@@ -1,4 +1,5 @@
 - timing statistics response time  or latecny per req  ,and latency distribution
+- ref other weighttp on github
 - generally better statistics
 - ssl support
 - better error reporting
